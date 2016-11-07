@@ -1,5 +1,5 @@
 <br>
-Yhteystiedot: Toimitusjohtaja Jussi Juonio
+Yhteystiedot: Toimitusjohtaja Joonas Träskelin 
 
 </body>
 </html>
